@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+* {
+    background-color: rgb(252, 234, 246);
+}
+
+img {
+    border-radius: 12px;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(221, 150, 197);
+    border-radius: 25px;
+    padding: 12px;
+}
